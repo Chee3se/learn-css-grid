@@ -1,9 +1,10 @@
 .container {
     display: grid;
+    grid: 200px 200px 200px;
 }
 .box {
-    width: 1fr;
-    height: 10px;
+    width: 200px;
+    height: 100px;
 }.box.b1 {
     background-color: blue;
 }.box.b2 {
