@@ -1,6 +1,6 @@
-1. git init
-2. git remote add origin https://github.com/projekta_saite
-3. git branch -M main
-4. git add .
-5. git commit -m "Ziņojums"
-6. git push -u origin main
+git init
+git remote add origin https://github.com/projekta_saite
+git branch -M main
+git add .
+git commit -m "Ziņojums"
+git push -u origin main
