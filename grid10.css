@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    row-gap: 100px;
+    column-gap: 25px;
+    background-color: #40fef4;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(2, 25px);
+    height: 225px;
+    width: 600px;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.box.type1 {
+    background-color: #00b3ff;
+}
+.box.type2 {
+    background-color: #0051ff;
+}
