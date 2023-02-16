@@ -3,7 +3,7 @@
 }
 .box {
     width: 1fr;
-    height: 100px;
+    height: 10px;
 }.box.b1 {
     background-color: blue;
 }.box.b2 {
